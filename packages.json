@@ -4,6 +4,10 @@
         "url": "https://github.com/psolymos/pbapply"
     },
     {
+        "package": "moosecounter",
+        "url": "https://github.com/psolymos/moosecounter"
+    },
+    {
         "package": "sharx",
         "url": "https://github.com/psolymos/sharx"
     },
