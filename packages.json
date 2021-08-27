@@ -1,0 +1,94 @@
+[
+    {
+        "package": "pbapply",
+        "url": "https://github.com/psolymos/pbapply"
+    },
+    {
+        "package": "sharx",
+        "url": "https://github.com/psolymos/sharx"
+    },
+    {
+        "package": "EDMAinR",
+        "url": "https://github.com/psolymos/EDMAinR"
+    },
+    {
+        "package": "clickrup",
+        "url": "https://github.com/psolymos/clickrup"
+    },
+    {
+        "package": "bSims",
+        "url": "https://github.com/psolymos/bSims"
+    },
+    {
+        "package": "WildLift",
+        "url": "https://github.com/psolymos/WildLift"
+    },
+    {
+        "package": "opticut",
+        "url": "https://github.com/psolymos/opticut"
+    },
+    {
+        "package": "detect",
+        "url": "https://github.com/psolymos/detect"
+    },
+    {
+        "package": "intrval",
+        "url": "https://github.com/psolymos/intrval"
+    },
+    {
+        "package": "ResourceSelection",
+        "url": "https://github.com/psolymos/ResourceSelection"
+    },
+    {
+        "package": "mefa",
+        "url": "https://github.com/psolymos/mefa"
+    },
+    {
+        "package": "mefa4",
+        "url": "https://github.com/psolymos/mefa4"
+    },
+    {
+        "package": "QPAD",
+        "url": "https://github.com/psolymos/QPAD"
+    },
+    {
+        "package": "KnockKnockJokes",
+        "url": "https://github.com/psolymos/KnockKnockJokes"
+    },
+    {
+        "package": "vegan",
+        "url": "https://github.com/vegandevs/vegan"
+    },
+    {
+        "package": "paired",
+        "url": "https://github.com/borealbirds/paired"
+    },
+    {
+        "package": "lhreg",
+        "url": "https://github.com/borealbirds/lhreg"
+    },
+    {
+        "package": "PVAClone",
+        "url": "https://github.com/psolymos/PVAClone"
+    },
+    {
+        "package": "dclone",
+        "url": "https://github.com/datacloning/dclone"
+    },
+    {
+        "package": "dcmle",
+        "url": "https://github.com/datacloning/dcmle"
+    },
+    {
+        "package": "abmidata",
+        "url": "https://github.com/ABbiodiversity/abmidata"
+    },
+    {
+        "package": "allinone",
+        "url": "https://github.com/ABbiodiversity/allinone"
+    },
+    {
+        "package": "cure4insect",
+        "url": "https://github.com/ABbiodiversity/cure4insect"
+    }
+]
