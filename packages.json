@@ -1,5 +1,17 @@
 [
     {
+        "package": "deps",
+        "url": "https://github.com/analythium/deps"
+    },
+    {
+        "package": "rconfig",
+        "url": "https://github.com/analythium/rconfig"
+    },
+    {
+        "package": "bananas",
+        "url": "https://github.com/psolymos/bananas"
+    },
+    {
         "package": "pbapply",
         "url": "https://github.com/psolymos/pbapply"
     },
